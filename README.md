@@ -24,7 +24,20 @@ FreshTrack is a Java-based application designed to track food expiry dates and h
 - Threads
 
 ## Team Members
-Add your team members' names here.
+B. Rishitha
+AP25110010218
+
+T. Gurucharan
+AP25110010375
+
+G. Devi Sri Subhash
+AP25110010342
+
+V. Geetha Sai Eswar Kumar
+AP25110010446
+
+G. Kiran Kumar
+AP25110011033
 
 ## How to Run
 1. Clone or download the repository.
